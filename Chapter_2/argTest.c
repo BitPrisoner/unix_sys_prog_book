@@ -2,7 +2,7 @@
  * This is program 2.1
  *
  * A program that takes a single string as its command-line argument
- * and calls makeargv to create an argument array
+ * and calls makeArgv to create an argument array
  */
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,7 +1,7 @@
 /*
  * This is program 2.2 on page 37
  *
- * An implementation of makeargv.
+ * An implementation of makeArgv.
  */
 
 #include <errno.h>
